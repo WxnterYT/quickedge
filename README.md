@@ -1,2 +1,5 @@
-# quickedge
-This is an app, kind of like Samsung's Quick panel, but ported to PC.
+# QuickEdge
+QuickEdge is an app that was inspired by Samsung's Side Panels.
+# Discord
+https://discord.gg/KTKd96CRTJ
+# made with hard work by wxnter!
